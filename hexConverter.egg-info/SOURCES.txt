@@ -1,0 +1,8 @@
+setup.py
+bin/hex.py
+hexConverter/__init__.py
+hexConverter.egg-info/PKG-INFO
+hexConverter.egg-info/SOURCES.txt
+hexConverter.egg-info/dependency_links.txt
+hexConverter.egg-info/requires.txt
+hexConverter.egg-info/top_level.txt
