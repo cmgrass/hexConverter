@@ -5,4 +5,4 @@ Run `sudo pip uninstall hexConverter` to ununstall.
 
 To access the utility from the terminal:
 `$ hex.py <integer>`
-Where <integer> is any base 10 integer value.
+Where '<integer>' is any base 10 integer value.
